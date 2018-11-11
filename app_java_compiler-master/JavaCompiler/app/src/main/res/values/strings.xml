@@ -3,4 +3,6 @@
     <string name="str_btn_run">Run</string>
     <string name="str_txt_output">Output</string>
     <string name="err_network">Network Exception</string>
+    <string name="title_activity_front_page">front_page</string>
+    <string name="title_activity_test">test</string>
 </resources>
